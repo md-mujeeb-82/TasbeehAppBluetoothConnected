@@ -1,2 +1,2 @@
 # TasbeehAppBluetoothConnected
-dsfsdsdfa
+Tasbeeh App works with Smart Device always connected.
